@@ -1,6 +1,8 @@
 ---
 title: Alcoholic
-weight: 1
+weight: 6
 ---
 
 Cocktails and alcoholic beverages.
+
+Subject to 10% service charge.

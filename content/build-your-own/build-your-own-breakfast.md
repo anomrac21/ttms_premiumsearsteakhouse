@@ -9,6 +9,7 @@ prices:
     price: 0
 side_categories:
   - category_name: Base
+    display_name: "Choose Your Base"
     config:
       minimum: 1
       maximum: 1
@@ -29,6 +30,7 @@ side_categories:
         type: Regular
         price: 20
   - category_name: Proteins
+    display_name: "Choose Your Proteins"
     config:
       minimum: 1
       maximum: 5
@@ -64,6 +66,7 @@ side_categories:
         type: Regular
         price: 30
   - category_name: Toppings
+    display_name: "Choose Your Toppings"
     config:
       minimum: 0
       maximum: 10
@@ -108,6 +111,7 @@ side_categories:
         type: Regular
         price: 25
   - category_name: Sauces
+    display_name: "Choose Your Sauces"
     config:
       minimum: 0
       maximum: 5

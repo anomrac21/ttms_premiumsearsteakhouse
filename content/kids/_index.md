@@ -1,6 +1,8 @@
 ---
 title: Kids
-weight: 1
+weight: 2
 ---
 
-Kids breakfast options. All items $65. Subject to 10% service charge.
+Kids breakfast options. 
+
+Subject to 10% service charge.

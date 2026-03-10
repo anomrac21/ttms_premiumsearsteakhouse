@@ -1,32 +1,36 @@
 :root {
-    --hero-bg-image-fg-color: #f4dec3;
-    --contact-info-bg: none;
-    --button-text-color2: #ffffff;
-    --main-bg-color: #f4dec3;
-    --menu-bg-color-1: #22273111;
-    --header-bordercolor-1: #dfeed4ff;
-    --modal-bg-container-color: #00000055;
-    --selected-button-color3: #fff;
-    --header-color: #000000ed;
+    /* Header */
+    --header-color: #004d65ed;
     --header-bg-color: #222731ee;
-    --selected-button-color4: #000000ee;
-    --button-color2: #000;
-    --header-bordercolor-2: #dfeed4ff;
-    --selected-text-color2: #fff;
     --header-icon-color: #fefefe;
-    --menu-bg-color-2: #00000055;
-    --button-color1: #222731;
-    --selected-button-color2: #200;
-    --footer-text-color: #000;
-    --hero-text-color: #000;
+    --header-text-color: #fefefe;
+    --header-text-shadow-color:#00000080;
+    --header-bordercolor-1: #dfeed4ff;
+    --header-bordercolor-2: #dfeed4ff;
     --header-bg-image: none;
-    --button-text-color3: #fff;
-    --selected-text-color3: #85181c;
-    --selected-button-color1: #200;
-    --button-text-color1: #fefefe;
-    --main-text-color: #ffffff;
-    --main-bg: #000;
-    --footer-bg-color: #fefefe;
+  
+  /* Hero */
+    --hero-bg-image-fg-color: #f4dec3;
+    --hero-bg-color: #ffffff;
+    --hero-text-color: #000000;
+
+  /* Main */
+    --main-bg: #ffffff;
+    --main-bg-color: #f4dec3;
+    --main-text-color: #000000;
+
+  /* Menu */
+    --menu-bg-color-1: #ffffff00;
+    --menu-bg-color-2: #ffffff00;
+    --menu-text-color: #000000;
+
+
+  /* Buttons */
+    --button-color1: #e7db03;
+    --button-color2: #8d783f;
+    --button-text-color1: #000000;
+    --selected-button-color1: #e7db03;
+    --selected-button-color2: #e7db03;
+    --selected-button-color3: #ffffffa6;
     --selected-text-color1: #fff;
-    --hero-bg-color: #000000;
 }

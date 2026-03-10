@@ -1,7 +1,7 @@
 ---
 title: Lunch Menu
 weight: 5
-icon: https://cdn.ttmenus.com/icons/white/icon-lunchspecial.webp
+icon: https://ct.ttmenus.com/icons/white/icon-lunchspecial.webp
 
 ---
 

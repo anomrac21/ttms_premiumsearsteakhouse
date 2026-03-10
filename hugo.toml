@@ -90,7 +90,7 @@ baseURL = 'https://premiumsearsteakhouse.ttmenus.com/'
     email = "admin@premiumsear.com"
     phone = 18686158187
     facebook = ""
-    instagram = ""
+    instagram = "https://www.instagram.com/premiumsearsteakhouse/"
     tiktok = ""
 
 [privacy]

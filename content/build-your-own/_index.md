@@ -1,6 +1,7 @@
 ---
 title: Build Your Own
 weight: 4
+icon: https://ct.ttmenus.com/icons/food/icon-trailblazers.webp
 tags:
   - Breakfast
 ---

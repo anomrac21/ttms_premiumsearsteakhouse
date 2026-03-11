@@ -20,8 +20,13 @@ prices:
     flavour: "-"
     price: 110
 tags:
+  - Main
   - Breakfast
   - Grass Fed
+ingredients: ["Ciabatta", "Pesto", "Mozzarella", "Chicken", "Shrimp", "Steak", "Veggie", "Ham", "Eggs"]
+cookingmethods: ["Grilled"]
+types: []
+events: []
 weight: 5
 ---
 

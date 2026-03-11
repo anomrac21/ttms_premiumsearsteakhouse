@@ -5,8 +5,13 @@ prices:
     flavour: "-"
     price: 65
 tags:
+  - Main
   - Breakfast
   - Kids
+ingredients: ["Macaroni", "Cheese", "Mozzarella"]
+cookingmethods: []
+types: []
+events: []
 weight: 4
 ---
 

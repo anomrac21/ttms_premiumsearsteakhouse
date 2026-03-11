@@ -5,8 +5,13 @@ prices:
     flavour: "-"
     price: 65
 tags:
+  - Main
   - Breakfast
   - Kids
+ingredients: ["Buttermilk", "Pancake", "Chocolate Chips", "Sausage", "Maple Syrup"]
+cookingmethods: []
+types: []
+events: []
 weight: 1
 ---
 

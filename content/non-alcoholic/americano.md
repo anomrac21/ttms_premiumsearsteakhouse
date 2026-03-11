@@ -7,5 +7,9 @@ prices:
 tags:
   - Drinks
   - Non-Alcoholic
+ingredients: ["Espresso", "Water"]
+cookingmethods: []
+types: ["Beverage"]
+events: []
 weight: 11
 ---

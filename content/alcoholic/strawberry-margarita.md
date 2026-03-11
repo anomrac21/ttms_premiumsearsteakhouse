@@ -7,5 +7,9 @@ prices:
 tags:
   - Drinks
   - Alcoholic
+ingredients: ["Tequila", "Strawberry", "Lime", "Triple Sec"]
+cookingmethods: []
+types: ["Beverage", "Cocktail"]
+events: []
 weight: 2
 ---

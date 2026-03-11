@@ -2,7 +2,12 @@
 title: Build Your Own Breakfast
 weight: 1
 tags:
+  - Main
   - Breakfast
+ingredients: []
+cookingmethods: []
+types: []
+events: []
 prices:
   - size: "-"
     flavour: "-"

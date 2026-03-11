@@ -7,5 +7,9 @@ prices:
 tags:
   - Drinks
   - Alcoholic
+ingredients: ["Gin", "Tonic"]
+cookingmethods: []
+types: ["Beverage", "Cocktail"]
+events: []
 weight: 5
 ---

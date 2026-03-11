@@ -5,8 +5,13 @@ prices:
     flavour: "-"
     price: 80
 tags:
+  - Main
   - Breakfast
   - Grass Fed
+ingredients: ["Beef", "Sausage", "Cheese", "Eggs", "Brioche"]
+cookingmethods: []
+types: []
+events: []
 weight: 3
 ---
 

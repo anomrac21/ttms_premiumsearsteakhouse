@@ -7,5 +7,9 @@ prices:
 tags:
   - Drinks
   - Non-Alcoholic
+ingredients: ["Coffee"]
+cookingmethods: []
+types: ["Beverage"]
+events: []
 weight: 4
 ---

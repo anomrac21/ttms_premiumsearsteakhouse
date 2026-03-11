@@ -5,8 +5,13 @@ prices:
     flavour: "-"
     price: 65
 tags:
+  - Main
   - Breakfast
   - Kids
+ingredients: ["Pancake", "Vanilla", "Sprinkles", "White Chocolate", "Cream", "Eggs"]
+cookingmethods: []
+types: []
+events: []
 weight: 6
 ---
 

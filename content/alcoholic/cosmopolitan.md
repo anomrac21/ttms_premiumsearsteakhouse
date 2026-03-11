@@ -7,5 +7,9 @@ prices:
 tags:
   - Drinks
   - Alcoholic
+ingredients: ["Vodka", "Cointreau", "Cranberry", "Lime"]
+cookingmethods: []
+types: ["Beverage", "Cocktail"]
+events: []
 weight: 6
 ---

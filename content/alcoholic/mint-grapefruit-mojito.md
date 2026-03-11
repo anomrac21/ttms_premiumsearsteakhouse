@@ -7,5 +7,9 @@ prices:
 tags:
   - Drinks
   - Alcoholic
+ingredients: ["Rum", "Mint", "Grapefruit", "Lime"]
+cookingmethods: []
+types: ["Beverage", "Cocktail"]
+events: []
 weight: 1
 ---

@@ -7,5 +7,9 @@ prices:
 tags:
   - Drinks
   - Non-Alcoholic
+ingredients: ["Fruit", "Yogurt"]
+cookingmethods: []
+types: ["Beverage"]
+events: []
 weight: 2
 ---

@@ -5,8 +5,13 @@ prices:
     flavour: "-"
     price: 120
 tags:
+  - Main
   - Breakfast
   - Grass Fed
+ingredients: ["Beef", "Turkey Bacon", "Pepperoni", "Bell Peppers", "Onion", "Mushroom", "Tomatoes", "Cheese", "Eggs", "Hash Brown", "Toast"]
+cookingmethods: []
+types: []
+events: []
 weight: 4
 ---
 

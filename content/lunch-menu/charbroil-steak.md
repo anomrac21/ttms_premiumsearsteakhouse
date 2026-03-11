@@ -5,8 +5,13 @@ prices:
     flavour: "-"
     price: 70
 tags:
+  - Main
   - Lunch
   - Steak
+ingredients: ["Beef", "Steak", "Potato", "Fries"]
+cookingmethods: ["Charbroiled"]
+types: []
+events: []
 weight: 2
 ---
 

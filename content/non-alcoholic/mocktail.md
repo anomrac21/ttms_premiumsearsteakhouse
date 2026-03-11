@@ -7,5 +7,9 @@ prices:
 tags:
   - Drinks
   - Non-Alcoholic
+ingredients: []
+cookingmethods: []
+types: ["Beverage"]
+events: []
 weight: 1
 ---

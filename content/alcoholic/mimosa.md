@@ -7,5 +7,9 @@ prices:
 tags:
   - Drinks
   - Alcoholic
+ingredients: ["Champagne", "Orange Juice"]
+cookingmethods: []
+types: ["Beverage", "Cocktail"]
+events: []
 weight: 3
 ---

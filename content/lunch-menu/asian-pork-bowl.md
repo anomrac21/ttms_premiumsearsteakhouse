@@ -5,9 +5,14 @@ prices:
     flavour: "-"
     price: 70
 tags:
+  - Main
   - Lunch
   - Bowl
   - Asian
+ingredients: ["Pork", "Teriyaki", "Jasmine Rice", "Broccoli"]
+cookingmethods: []
+types: ["Asian"]
+events: []
 weight: 8
 ---
 

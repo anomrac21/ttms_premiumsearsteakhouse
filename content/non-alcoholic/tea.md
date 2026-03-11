@@ -7,5 +7,9 @@ prices:
 tags:
   - Drinks
   - Non-Alcoholic
+ingredients: ["Tea"]
+cookingmethods: []
+types: ["Beverage"]
+events: []
 weight: 8
 ---

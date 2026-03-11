@@ -1,12 +1,12 @@
 :root {
   /* Header */
   --header-color: #ffffffed;
-  --header-bg-color: #ffffff00;
+  --header-bg-color: #fff2001f;
   --header-icon-color: #fefefe;
   --header-text-color: #fefefe;
   --header-text-shadow-color:#00000080;
-  --header-bordercolor-1: #dfeed4ff;
-  --header-bordercolor-2: #dfeed4ff;
+  --header-bordercolor-1: #b8000033;
+  --header-bordercolor-2: #b800001c;
   --header-bg-image: none;
 
 /* Hero */
@@ -20,17 +20,17 @@
   --main-text-color: #000000;
 
 /* Menu */
-  --menu-bg-color-1: #ffffff00;
+  --menu-bg-color-1: #ffffff;
   --menu-bg-color-2: #ffffff00;
   --menu-text-color: #000000;
 
 
 /* Buttons */
-  --button-color1: #e7db03;
-  --button-color2: #8d783f;
+  --button-color1: #fff200;
+  --button-color2: #c18c00;
   --button-text-color1: #000000;
-  --selected-button-color1: #b80000;
-  --selected-button-color2: #795800;
-  --selected-button-color3: #ffffffa6;
-  --selected-text-color1: #fff;
+  --selected-button-color1: #fff200;
+  --selected-button-color2: #fff20036;
+  --selected-button-color3: #b80000a6;
+  --selected-text-color1: #000000;
 }

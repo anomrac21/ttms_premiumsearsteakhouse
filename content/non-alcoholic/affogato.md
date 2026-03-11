@@ -7,5 +7,9 @@ prices:
 tags:
   - Drinks
   - Non-Alcoholic
+ingredients: ["Espresso", "Ice Cream"]
+cookingmethods: []
+types: ["Beverage"]
+events: []
 weight: 9
 ---

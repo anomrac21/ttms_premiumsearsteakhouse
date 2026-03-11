@@ -7,5 +7,9 @@ prices:
 tags:
   - Drinks
   - Non-Alcoholic
+ingredients: ["Coffee", "Milk", "Hazelnut"]
+cookingmethods: []
+types: ["Beverage"]
+events: []
 weight: 13
 ---

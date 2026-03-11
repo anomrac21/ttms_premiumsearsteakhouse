@@ -7,5 +7,9 @@ prices:
 tags:
   - Drinks
   - Non-Alcoholic
+ingredients: ["Coffee", "Milk", "Caramel"]
+cookingmethods: []
+types: ["Beverage"]
+events: []
 weight: 14
 ---

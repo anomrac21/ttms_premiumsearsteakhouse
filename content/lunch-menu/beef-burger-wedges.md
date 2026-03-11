@@ -5,8 +5,13 @@ prices:
     flavour: "-"
     price: 70
 tags:
+  - Main
   - Lunch
   - Burger
+ingredients: ["Beef", "Burger", "Potato", "Wedges"]
+cookingmethods: ["Grilled"]
+types: []
+events: []
 weight: 7
 ---
 

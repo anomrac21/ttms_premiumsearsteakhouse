@@ -43,10 +43,16 @@ side_categories:
       - name: Chicken Tenders
         type: Regular
         price: 40
-      - name: Fish (Grilled/Fried)
+      - name: Fish (Grilled)
         type: Regular
         price: 35
-      - name: Chicken (Grilled/Fried)
+      - name: Fish (Fried)
+        type: Regular
+        price: 35
+      - name: Chicken (Grilled)
+        type: Regular
+        price: 35
+      - name: Chicken (Fried)
         type: Regular
         price: 35
       - name: Salmon

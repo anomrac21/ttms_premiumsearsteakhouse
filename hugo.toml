@@ -9,7 +9,7 @@ languageCode = 'en-tt'
   [[module.mounts]]
     source = "themes/_menus_ttms/content"
     target = "content"
-title = 'Premium Sear Steakhouse '
+title = 'Premium Sear Steakhouse'
 baseURL = 'https://premiumsearsteakhouse.ttmenus.com/'
 
 [markup]

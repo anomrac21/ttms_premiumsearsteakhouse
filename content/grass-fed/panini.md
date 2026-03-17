@@ -1,23 +1,23 @@
 ---
 title: Panini
 prices:
-  - size: Veggie
-    flavour: "-"
+  - variable1: Veggie
+    variable2: "-"
     price: 80
-  - size: Chicken Tenders
-    flavour: "-"
+  - variable1: Chicken Tenders
+    variable2: "-"
     price: 85
-  - size: Ham and Eggs
-    flavour: "-"
+  - variable1: Ham and Eggs
+    variable2: "-"
     price: 80
-  - size: Shrimp
-    flavour: "-"
+  - variable1: Shrimp
+    variable2: "-"
     price: 105
-  - size: Grilled Chicken
-    flavour: "-"
+  - variable1: Grilled Chicken
+    variable2: "-"
     price: 85
-  - size: Steak
-    flavour: "-"
+  - variable1: Steak
+    variable2: "-"
     price: 110
 tags:
   - Main

@@ -1,8 +1,8 @@
 ---
 title: Americano
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 30
 tags:
   - Drinks

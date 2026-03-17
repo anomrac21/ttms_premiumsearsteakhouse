@@ -1,8 +1,8 @@
 ---
 title: Iced Tea
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 25
 tags:
   - Drinks

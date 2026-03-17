@@ -1,8 +1,8 @@
 ---
 title: Confetti
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 65
 tags:
   - Main

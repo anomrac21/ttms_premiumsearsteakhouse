@@ -1,8 +1,8 @@
 ---
 title: Traditional Omelette
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 75
 tags:
   - Main

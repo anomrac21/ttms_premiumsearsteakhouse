@@ -1,8 +1,8 @@
 ---
 title: Smoked BBQ Chicken Breast on Seasoned Fries
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 70
 tags:
   - Main

@@ -1,11 +1,11 @@
 ---
 title: Grilled (Fish/Chicken), House Rice, Beans and Salad
 prices:
-  - size: "-"
-    flavour: Fish
+  - variable1: "-"
+    variable2: Fish
     price: 70
-  - size: "-"
-    flavour: Chicken
+  - variable1: "-"
+    variable2: Chicken
     price: 70
 tags:
   - Main

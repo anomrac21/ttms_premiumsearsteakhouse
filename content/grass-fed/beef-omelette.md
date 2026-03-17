@@ -1,8 +1,8 @@
 ---
 title: Beef Omelette
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 80
 tags:
   - Main

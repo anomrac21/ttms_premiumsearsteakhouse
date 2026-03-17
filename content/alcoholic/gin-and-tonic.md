@@ -1,8 +1,8 @@
 ---
 title: Gin and Tonic
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 50
 tags:
   - Drinks

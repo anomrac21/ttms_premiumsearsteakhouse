@@ -1,8 +1,8 @@
 ---
 title: Crispy Bang Bang Chicken, Jasmine Rice and Beans
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 70
 tags:
   - Main

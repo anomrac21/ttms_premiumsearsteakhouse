@@ -1,8 +1,8 @@
 ---
 title: Mimosa
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 60
 tags:
   - Drinks

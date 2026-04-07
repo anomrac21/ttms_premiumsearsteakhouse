@@ -82,7 +82,7 @@ baseURL = 'https://premiumsearsteakhouse.ttmenus.com/'
     phone = 18686158187
 
 [params.services]
-    analyticsid = 0
+    analyticsid = 23
     notifications = true
 
 [params.social]

@@ -3,10 +3,10 @@ title: Hennessy Apple / Melon
 prices:
   - variable1: Apple liqueur
     variable2: "-"
-    price: 100
+    price: 90
   - variable1: Melon liqueur
     variable2: "-"
-    price: 100
+    price: 90
 tags:
   - Drinks
   - Alcoholic

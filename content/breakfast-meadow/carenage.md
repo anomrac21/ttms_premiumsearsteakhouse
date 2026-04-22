@@ -4,6 +4,19 @@ prices:
   - variable1: "-"
     variable2: "-"
     price: 110
+side_categories:
+  - category_name: bake
+    display_name: Bake
+    config:
+      minimum: 1
+      maximum: 1
+    items:
+      - name: Fried
+        type: Regular
+        price: 0
+      - name: Coconut
+        type: Regular
+        price: 0
 tags:
   - Breakfast
 ingredients:
@@ -17,4 +30,4 @@ types:
 weight: 11
 ---
 
-Bake (fried or coconut), egg, saltfish buljol, fried plantain.
+Choose fried or coconut bake, with egg, saltfish buljol, and fried plantain.

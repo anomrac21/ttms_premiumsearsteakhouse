@@ -3,7 +3,7 @@ title: Brandy Alexander
 prices:
   - variable1: "-"
     variable2: "-"
-    price: 115
+    price: 95
 tags:
   - Drinks
   - Alcoholic

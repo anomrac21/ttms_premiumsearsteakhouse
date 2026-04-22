@@ -3,7 +3,7 @@ title: Tanqueray
 prices:
   - variable1: Pour
     variable2: "-"
-    price: 70
+    price: 75
   - variable1: Bottle
     variable2: "-"
     price: 620

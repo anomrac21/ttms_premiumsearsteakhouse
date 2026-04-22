@@ -3,7 +3,7 @@ title: Moët Imperial Ice
 prices:
   - variable1: Bottle
     variable2: "-"
-    price: 1250
+    price: 1750
 tags:
   - Drinks
   - Alcoholic

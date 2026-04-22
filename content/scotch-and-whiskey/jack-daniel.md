@@ -6,7 +6,7 @@ prices:
     price: 75
   - variable1: Bottle
     variable2: "-"
-    price: 680
+    price: 660
 tags:
   - Drinks
   - Alcoholic

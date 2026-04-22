@@ -3,10 +3,10 @@ title: St. Chateau Michelle
 prices:
   - variable1: Pour
     variable2: "-"
-    price: 60
+    price: 80
   - variable1: Bottle
     variable2: "-"
-    price: 230
+    price: 350
 tags:
   - Drinks
   - Alcoholic

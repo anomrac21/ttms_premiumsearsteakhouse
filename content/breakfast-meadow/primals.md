@@ -4,6 +4,22 @@ prices:
   - variable1: "-"
     variable2: "-"
     price: 80
+side_categories:
+  - category_name: bacon
+    display_name: Bacon
+    config:
+      minimum: 1
+      maximum: 1
+    items:
+      - name: Pork
+        type: Regular
+        price: 0
+      - name: Turkey
+        type: Regular
+        price: 0
+      - name: Beef
+        type: Regular
+        price: 0
 tags:
   - Breakfast
 ingredients:

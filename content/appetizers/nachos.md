@@ -14,7 +14,7 @@ prices:
     variable2: "-"
     price: 110
   - variable1: Carnivore (Chicken, Shrimp, Beef)
-    variable2: 
+    variable2: "-"
     price: 140
   - variable1: Roast Pork
     variable2: "-"

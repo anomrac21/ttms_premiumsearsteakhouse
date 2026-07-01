@@ -1,7 +1,9 @@
 ---
 title: Tequila
 weight: 24
-icon: https://ct.ttmenus.com/icons/food/icon-rum.webp
+icon: images/tequila.webp
+images:
+    primary: images/tequila.webp
 ---
 
 Subject to service charge.

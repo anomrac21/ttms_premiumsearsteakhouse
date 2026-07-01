@@ -1,7 +1,9 @@
 ---
 title: Appetizers
 weight: 3
-icon: https://ct.ttmenus.com/icons/food/icon-wontons.webp
+icon: images/appetizers.webp
+images:
+    primary: images/appetizers.webp
 ---
 
 Starters and shareables from our kitchen.

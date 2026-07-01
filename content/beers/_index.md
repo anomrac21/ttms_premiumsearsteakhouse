@@ -1,7 +1,9 @@
 ---
 title: Beers
 weight: 27
-icon: https://ct.ttmenus.com/icons/food/icon-beer.webp
+icon: images/beers.webp
+images:
+    primary: images/beers.webp
 ---
 
 Subject to service charge.

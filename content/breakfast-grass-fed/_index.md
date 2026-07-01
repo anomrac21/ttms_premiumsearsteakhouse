@@ -1,7 +1,9 @@
 ---
 title: Breakfast — Grass Fed
 weight: 30
-icon: https://ct.ttmenus.com/icons/food/icon-combo.webp
+icon: images/breakfast-grass-fed.webp
+images:
+    primary: images/breakfast-grass-fed.webp
 ---
 
 Subject to 10% service charge.

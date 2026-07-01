@@ -1,7 +1,9 @@
 ---
 title: Premium Steak Menu
 weight: 8
-icon: https://ct.ttmenus.com/icons/food/icon-beef.webp
+icon: images/premium-steak-menu.webp
+images:
+    primary: images/premium-steak-menu.webp
 ---
 
 All steaks come with a complimentary side salad and any one of the following sides: baked potato, broccoli, fries, corn on the cob, garlic mashed potato, garlic bread, house rice, or parmesan broccoli.

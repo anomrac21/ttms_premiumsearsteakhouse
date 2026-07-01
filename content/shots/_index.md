@@ -1,7 +1,9 @@
 ---
 title: Shots
 weight: 18
-icon: https://ct.ttmenus.com/icons/food/icon-shots.webp
+icon: images/shots.webp
+images:
+    primary: images/shots.webp
 ---
 
 Subject to service charge.

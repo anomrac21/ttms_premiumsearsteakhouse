@@ -1,7 +1,9 @@
 ---
 title: Mocktails
 weight: 13
-icon: https://ct.ttmenus.com/icons/food/icon-icedtea.webp
+icon: images/mocktails.webp
+images:
+    primary: images/mocktails.webp
 ---
 
 Non-alcoholic cocktails. Subject to service charge.

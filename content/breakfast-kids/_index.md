@@ -1,7 +1,9 @@
 ---
 title: Breakfast — Kids
 weight: 29
-icon: https://ct.ttmenus.com/icons/food/icon-combo.webp
+icon: images/breakfast-kids.webp
+images:
+    primary: images/breakfast-kids.webp
 ---
 
 Subject to 10% service charge.

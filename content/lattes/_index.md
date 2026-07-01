@@ -1,7 +1,9 @@
 ---
 title: Lattes
 weight: 15
-icon: https://ct.ttmenus.com/icons/food/icon-coffee2.webp
+icon: images/lattes.webp
+images:
+    primary: images/lattes.webp
 ---
 
 Flavored lattes. Subject to service charge.

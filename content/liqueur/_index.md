@@ -1,7 +1,9 @@
 ---
 title: Liqueur
 weight: 25
-icon: https://ct.ttmenus.com/icons/food/icon-rum.webp
+icon: images/liqueur.webp
+images:
+    primary: images/liqueur.webp
 ---
 
 Subject to service charge.

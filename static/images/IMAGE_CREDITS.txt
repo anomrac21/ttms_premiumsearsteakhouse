@@ -1,0 +1,36 @@
+Section photos:
+- hero.webp — Premium SEAR (client promo, from promotions/sear-saturday.png)
+- promotions.webp — Premium SEAR (client promo, from promotions/magic-mondays.png)
+- appetizers.webp — Pexels #2338407
+- soups.webp — Pexels #539451
+- salads.webp — Pexels #1279330
+- sides.webp — Pexels #410648
+- kids-menu.webp — Pexels #699953
+- premium-steak-menu.webp — Pexels #3535384
+- entrees.webp — Pexels #618785
+- pastas.webp — Pexels #2097090
+- burgers-and-sandwiches.webp — Pexels #769289
+- desserts.webp — Pexels #2089718
+- mocktails.webp — Pexels #1267325
+- hot-drinks.webp — Pexels #302899
+- lattes.webp — Pexels #654642
+- floral-teas.webp — Pexels #1132558
+- cocktails.webp — Pexels #274192
+- shots.webp — Pexels #1126728
+- scotch-and-whiskey.webp — Pexels #696218
+- vodka.webp — Pexels #1126728
+- gin.webp — Pexels #274192
+- cognac.webp — Pexels #696218
+- rum.webp — Pexels #696218
+- tequila.webp — Pexels #2087742
+- liqueur.webp — Pexels #848612
+- wines.webp — Pexels #1283219
+- beers.webp — Pexels #1304540
+- soft-drinks.webp — Pexels #1199957
+- breakfast-kids.webp — Pexels #699953
+- breakfast-grass-fed.webp — Pexels #3535384
+- breakfast-meadow.webp — Pexels #1640777
+- breakfast-build-your-own.webp — Pexels #1028737
+- breakfast-drinks.webp — Pexels #654642
+- slideshow-steak.webp — Pexels #3535384
+- slideshow-wine.webp — Pexels #1283219

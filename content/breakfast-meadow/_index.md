@@ -1,7 +1,9 @@
 ---
 title: Breakfast — Meadow
 weight: 31
-icon: https://ct.ttmenus.com/icons/food/icon-combo.webp
+icon: images/breakfast-meadow.webp
+images:
+    primary: images/breakfast-meadow.webp
 ---
 
 Subject to 10% service charge.

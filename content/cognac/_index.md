@@ -1,7 +1,9 @@
 ---
 title: Cognac
 weight: 22
-icon: https://ct.ttmenus.com/icons/food/icon-wine.webp
+icon: images/cognac.webp
+images:
+    primary: images/cognac.webp
 ---
 
 Hennessy collection. Subject to service charge.

@@ -1,36 +1,48 @@
 :root {
-  /* Header */
-  --header-color: #ffffffed;
-  --header-bg-color: #fff2001f;
-  --header-icon-color: #fefefe;
-  --header-text-color: #fefefe;
-  --header-text-shadow-color:#00000080;
-  --header-bordercolor-1: #b8000033;
-  --header-bordercolor-2: #b800001c;
-  --header-bg-image: none;
+    /* Premium SEAR Steakhouse: gold accent, deep red, cream */
 
-/* Hero */
-  --hero-bg-image-fg-color: #f4dec3;
-  --hero-bg-color: #ffffff;
-  --hero-text-color: #000000;
+    /* Header */
+    --header-color: #b80000ed;
+    --header-bg-color: #b80000ed;
+    --header-icon-color: #fff200;
+    --header-text-color: #fefefe;
+    --header-text-shadow-color: #00000080;
+    --header-bordercolor-1: #fff200;
+    --header-bordercolor-2: #c18c00;
+    --header-bg-image: none;
 
-/* Main */
-  --main-bg: #ffffff;
-  --main-bg-color: #f4dec3;
-  --main-text-color: #000000;
+    /* Hero */
+    --hero-bg-image-fg-color: #f4dec3;
+    --hero-bg-color: #ffffff;
+    --hero-text-color: #000000;
+    --contact-info-bg: #b80000;
 
-/* Menu */
-  --menu-bg-color-1: #ffffff;
-  --menu-bg-color-2: #ffffff00;
-  --menu-text-color: #000000;
+    /* Main */
+    --main-bg: #ffffff;
+    --main-bg-color: #f4dec3;
+    --main-text-color: #000000;
 
+    /* Menu */
+    --menu-bg-color-1: #ffffff;
+    --menu-bg-color-2: #b8000015;
+    --menu-text-color: #000000;
 
-/* Buttons */
-  --button-color1: #fff200;
-  --button-color2: #c18c00;
-  --button-text-color1: #000000;
-  --selected-button-color1: #fff200;
-  --selected-button-color2: #fff20036;
-  --selected-button-color3: #b80000a6;
-  --selected-text-color1: #000000;
+    /* Buttons */
+    --button-color1: #fff200;
+    --button-color2: #c18c00;
+    --button-text-color1: #000000;
+    --button-text-color2: #000000;
+    --button-text-color3: #000000;
+    --selected-button-color1: #b80000;
+    --selected-button-color2: #8f0000;
+    --selected-button-color3: #fff200;
+    --selected-button-color4: #b80000ee;
+    --selected-text-color1: #ffffff;
+    --selected-text-color2: #ffffff;
+    --selected-text-color3: #fff200;
+
+    /* Footer & modals */
+    --footer-bg-color: #b80000;
+    --footer-text-color: #fefefe;
+    --modal-bg-container-color: #00000055;
 }

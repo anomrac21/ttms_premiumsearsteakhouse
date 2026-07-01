@@ -11,6 +11,7 @@ languageCode = 'en-tt'
     target = "content"
 title = 'Premium Sear Steakhouse'
 baseURL = 'https://premiumsearsteakhouse.ttmenus.com/'
+enableRobotsTXT = true
 
 [markup]
 
@@ -36,6 +37,9 @@ baseURL = 'https://premiumsearsteakhouse.ttmenus.com/'
   page = ["HTML", "JSON"]
 
 [params]
+  # Subscription tier: free | tier1 | tier1_4mo | tier2 (exported in /index.json for hub Account)
+  tier = "tier2"
+  description = "Premium SEAR Steakhouse — steaks, entrées, wines, cocktails and breakfast at Centre of Excellence, Macoya. View our menu and order online."
   authServiceUrl = "https://auth.ttmenus.com"
   adsServiceUrl = "https://ads.ttmenus.com"
   notifyServiceUrl = "https://notify.ttmenus.com"
@@ -58,6 +62,24 @@ baseURL = 'https://premiumsearsteakhouse.ttmenus.com/'
     # apiUrl = "http://localhost:8084/api"
     # serviceUrl = "http://localhost:8084"
 
+# Dashboard update-ui still reads site.Params.content.*
+[params.content]
+    enabled = true
+    apiUrl = "https://cms.ttmenus.com/api"
+    clientId = "ttms_premiumsearsteakhouse"
+
+# Thumbor — on-demand resized images for dashboard previews
+[params.thumbor]
+    enabled = true
+    url = "https://thumbor.ttmenus.com"
+    sourceBaseUrl = "https://premiumsearsteakhouse.ttmenus.com"
+    menuImagesUseThumbor = true
+
+# Menu Image Service - user-submitted images with admin approval
+[params.menuImageService]
+    enabled = true
+    apiUrl = "https://menu-images.ttmenus.com/api/v1"
+
 # Notification Service Configuration
 [params.notifications]
     enabled = true
@@ -66,10 +88,27 @@ baseURL = 'https://premiumsearsteakhouse.ttmenus.com/'
     serviceUrl = "https://notify.ttmenus.com"
   clientDomain = "premiumsearsteakhouse.ttmenus.com"
 
+# Power-up flags surfaced in /index.json → TT Menus hub Account venue details
 [params.features]
     payments = false
     delivery = false
     notifications = true
+    analytics_access = true
+    featured = true
+    exclusive_ads = true
+    no_competitor_ads = true
+    unmetered_traffic = true
+
+# POS: enabled + provider drive runtime (head.html) and hub Account (index.json features.pos / pos_provider)
+[params.posintegration]
+    enabled = false
+    provider = ""
+    api_url = ""
+    access_token = ""
+    store_id = ""
+    sync_menu = false
+    auto_process_orders = false
+    fallback_to_whatsapp = true
 
 [params.orderingsystem]
     # Set to false to disable placing orders (cart still works; user gets message and order is cancelled)
@@ -81,6 +120,14 @@ baseURL = 'https://premiumsearsteakhouse.ttmenus.com/'
     usephonecall = false
     whatsapp = 18687207327
     phone = 18686158187
+
+# Payment Service — menu checkout (enable when client is onboarded to pay subdomain)
+[params.paymentService]
+    enabled = false
+    apiUrl = "https://pay.premiumsearsteakhouse.ttmenus.com"
+    clientId = "ttms_premiumsearsteakhouse"
+    currency = "TTD"
+    provider = "wipay"
 
 [params.services]
     analyticsid = 23

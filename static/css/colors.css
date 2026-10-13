@@ -1,31 +1,30 @@
 /**
- * Deep red field, gold dish sheet, white type.
- * The sheet gold is #c18c00 deepened so the white ink stays readable.
- * Bright gold stays on the header mark, the favorite, and the glow.
+ * Black field, gold dish sheet, white type.
+ * Bright gold stays on the header line. The heart is red.
  */
 :root {
-  --header-bg-color: #b80000ed;
+  --header-bg-color: #000000ed;
   --header-text-color: #fefefe;
-  --header-icon-color: #fff200;
-  --header-border-color: #fff200;
+  --header-icon-color: #ffffff;
+  --header-border-color: #c48e00;
 
-  --hero-bg-color-1: #8f0000;
-  --hero-bg-color-2: #8f0000;
+  --hero-bg-color-1: #000000;
+  --hero-bg-color-2: #000000;
   --hero-text-color: #fefefe;
   --hero-features-icon-color: #fff200;
-  --hero-features-icon-bg-color: #b80000ed;
+  --hero-features-icon-bg-color: #000000ed;
   --hero-border-color: #fff200;
 
-  --main-bg: #8f0000;
+  --main-bg: #000000;
   --main-text-color: #fefefe;
 
-  --menu-bg-color-1: #986e00;
-  --menu-bg-color-2: #715200;
+  --menu-bg-color-1: #000000;
+  --menu-bg-color-2: #000000;
   --menu-text-color: #fefefe;
-  --favorite-color: #fff200;
+  --favorite-color: #ff0000;
 
-  --button-color1: #986e00;
-  --button-color2: #715200;
+  --button-color1: #c48e00;
+  --button-color2: #000000;
   --button-text-color1: #fefefe;
   --button-text-color2: #ffffff;
   --selected-button-color1: #b80000;
@@ -38,21 +37,21 @@
   --accent-text-color: #ffffff;
   --accent-glow-color: #f4dec3;
 
-  --footer-bg-color: #b80000;
+  --footer-bg-color: #000000;
   --footer-text-color: #fefefe;
   --footer-icon-color: #fefefe;
   --modal-bg-container-color: #00000055;
 
-  --header-color: #b80000ed;
+  --header-color: #000000ed;
   --header-text-shadow-color: #00000080;
-  --header-bordercolor-1: #fff200;
-  --header-bordercolor-2: #c18c00;
+  --header-bordercolor-1: #c48e00;
+  --header-bordercolor-2: #c48e00;
   --header-bg-image: none;
-  --hero-bg-color: #8f0000;
+  --hero-bg-color: #000000;
   --hero-bg-image-fg-color: #f4dec3;
-  --contact-info-bg: #b80000;
-  --main-bg-color: #8f0000;
+  --contact-info-bg: #000000;
+  --main-bg-color: #000000;
   --button-text-color3: #ffffff;
-  --selected-button-color4: #b80000ee;
+  --selected-button-color4: #000000ee;
   --selected-text-color2: #ffffff;
 }

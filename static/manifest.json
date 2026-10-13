@@ -2,7 +2,7 @@
     "name": "{{SITE_TITLE}}",
     "short_name": "{{SITE_TITLE}}",
     "description": "{{SITE_TITLE}} Digital Menu",
-    "start_url": ".",
+    "start_url": "/",
     "background_color": "#000000",
     "display": "standalone",
     "theme_color": "#000000",
@@ -11,14 +11,14 @@
             "src": "branding/favicon.ico",
             "type": "image/ico",
             "sizes": "196x196",
-            "purpose": "any" 
+            "purpose": "any"
         },
         {
             "src": "branding/favicon.png",
             "type": "image/png",
             "sizes": "512x512",
             "purpose": "any"
-        }, 
+        },
         {
             "src": "branding/favicon16.webp",
             "type": "image/webp",
@@ -54,7 +54,7 @@
             "sizes": "512x512"
         }
     ],
-    "screenshots": [    
+    "screenshots": [
         {
             "src": "branding/richscreenshot1.webp",
             "sizes": "640x320",
@@ -68,5 +68,7 @@
             "type": "image/webp",
             "label": "Application"
         }
-    ]
+    ],
+    "id": "/",
+    "scope": "/"
 }

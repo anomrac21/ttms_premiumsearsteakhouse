@@ -1,17 +1,21 @@
 theme = '_menus_ttms'
 languageCode = 'en-tt'
+title = 'Premium Sear Steakhouse'
+baseURL = 'https://premiumsearsteakhouse.ttmenus.com/'
+enableRobotsTXT = true
+timeout = '180s'
 
 # Mount theme's content (dashboard, locations, api, etc.); keep project content (defining mounts replaces default for that target)
 [module]
   [[module.mounts]]
-    source = "content"
+    source = "content/_index.md"
+    target = "content/_index.md"
+  [[module.mounts]]
+    source = "content/.generated"
     target = "content"
   [[module.mounts]]
     source = "themes/_menus_ttms/content"
     target = "content"
-title = 'Premium Sear Steakhouse'
-baseURL = 'https://premiumsearsteakhouse.ttmenus.com/'
-enableRobotsTXT = true
 
 [markup]
 
@@ -38,7 +42,7 @@ enableRobotsTXT = true
 
 [params]
   # Subscription tier: free | tier1 | tier1_4mo | tier2 (exported in /index.json for hub Account)
-  tier = "tier2"
+  tier = "tier1"
   description = "Premium SEAR Steakhouse — steaks, entrées, wines, cocktails and breakfast at Centre of Excellence, Macoya. View our menu and order online."
   authServiceUrl = "https://auth.ttmenus.com"
   adsServiceUrl = "https://ads.ttmenus.com"
@@ -69,6 +73,30 @@ enableRobotsTXT = true
     clientId = "ttms_premiumsearsteakhouse"
 
 # Thumbor — on-demand resized images for dashboard previews
+[params.menu]
+    multiLocationMenus = false
+
+[params.mapService]
+    url = "https://maps.ttmenus.com"
+    dataSource = "trinidad-tobago"
+
+[params.osrm]
+    url = "https://osrm.ttmenus.com"
+
+[params.orderService]
+    apiUrl = "https://orders.ttmenus.com/api/v1"
+    enabled = true
+    kitchenPrint = false
+    paperWidthMm = 80
+    printerName = ""
+
+[params.deliveryService]
+    apiUrl = "https://delivery.ttmenus.com/api/v1"
+    currency = "TTD"
+    deliveryFee = 0
+    enabled = false
+    wsUrl = "wss://delivery.ttmenus.com/api/v1"
+
 [params.thumbor]
     enabled = true
     url = "https://thumbor.ttmenus.com"
@@ -90,6 +118,7 @@ enableRobotsTXT = true
 
 # Power-up flags surfaced in /index.json → TT Menus hub Account venue details
 [params.features]
+    loyverse_connect = false
     payments = false
     delivery = false
     notifications = true
@@ -101,6 +130,8 @@ enableRobotsTXT = true
 
 # POS: enabled + provider drive runtime (head.html) and hub Account (index.json features.pos / pos_provider)
 [params.posintegration]
+    oauth_url = "https://loyverse-oauth.ttmenus.com"
+    loyverse_receipt_mode = "on_payment"
     enabled = false
     provider = ""
     api_url = ""
@@ -128,6 +159,10 @@ enableRobotsTXT = true
     clientId = "ttms_premiumsearsteakhouse"
     currency = "TTD"
     provider = "wipay"
+
+[params.reviews]
+    enabled = true
+    apiUrl = "https://reviews.ttmenus.com/api/v1"
 
 [params.services]
     analyticsid = 23

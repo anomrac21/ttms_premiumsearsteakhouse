@@ -16,3 +16,6 @@ desktop.ini
 *.swp
 *.swo
 *~
+/bin
+/content/.generated/**
+!/content/.generated/.gitkeep

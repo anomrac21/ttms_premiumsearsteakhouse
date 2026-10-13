@@ -1,5 +1,6 @@
 locations:
-  - address: "Centre of Excellence Compound"
+  - slug: macoya
+    address: "Centre of Excellence Compound"
     city: "Macoya"
     island: "Trinidad "
     latlon: [10.640481,-61.383010]
